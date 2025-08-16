@@ -1,2 +1,5 @@
 streamlit
+newspaper3k
+requests
+lxml
 google-generativeai
